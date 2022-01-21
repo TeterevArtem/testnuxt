@@ -3,10 +3,10 @@
     <div class="row">
       <ul class="block__list col-lg-5">
         <li class="block__item">
-          <h4 class="block__title">Мои счета</h4>
+          <h4 class="block__title">Мои faslkdfjas;ldf</h4>
         </li>
         <li class="block__item">
-          <h4 class="block__title">Мои счета</h4>
+          <h4 class="block__title">Мои aslkdfja;sd</h4>
         </li>
         <li class="block__item">
           <h4 class="block__title">Мои счета</h4>
