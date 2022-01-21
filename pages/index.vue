@@ -6,10 +6,12 @@
           <h4 class="block__title">Мои faslkdfjas;ldf</h4>
         </li>
         <li class="block__item">
-          <h4 class="block__title">Мои aslkdfja;sd</h4>
+          <h4 class="block__title">
+          2
+          32213131sd</h4>
         </li>
         <li class="block__item">
-          <h4 class="block__title">Мои счета</h4>
+          <h4 class="block__title">222</h4>
         </li>
         <li class="block__item">
           <h4 class="block__title">Мои счета</h4>
